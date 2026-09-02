@@ -1,0 +1,7 @@
+{
+  "name": "Memora",
+  "description": "Spaced-repetition flashcard system with text, image, audio TTS, and Gemini AI English coach chat flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
